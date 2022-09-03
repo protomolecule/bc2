@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Benjamin Constantine'
+theme = "devise"
+
+[params]
+  description = "Personal website of Benamin Constantine"      # Your meta description of the site
+  header_title = "Benjamin Constantine"                 # Your header title
+  header_subtitle = "Data person" # Your header subtitle
+  home_image = "/images/portrait.jpg"          # Path to header image starting from the static directory
+  recent_posts = 0                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  googleTagManager = "GTM-NKB9L98"
+
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://www.linkedin.com/in/benjamin-constantine/"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "https://github.com/protomolecule"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://twitter.com/protomolecule"
