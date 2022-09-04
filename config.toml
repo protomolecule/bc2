@@ -6,8 +6,8 @@ theme = "devise"
 [params]
   description = "Personal website of Benamin Constantine"      # Your meta description of the site
   header_title = "Benjamin Constantine"                 # Your header title
-  header_subtitle = "Data person" # Your header subtitle
-  home_image = "/images/portrait.jpg"          # Path to header image starting from the static directory
+  header_subtitle = "data person" # Your header subtitle
+  home_image = "/bc_pic.jpg"          # Path to header image starting from the static directory
   recent_posts = 0                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
   googleTagManager = "GTM-NKB9L98"
