@@ -4,7 +4,7 @@ title = 'Benjamin Constantine'
 theme = "devise"
 
 [params]
-  description = "Personal website of Benamin Constantine"      # Your meta description of the site
+  description = "Personal website of Benjamin Constantine"      # Your meta description of the site
   header_title = "Benjamin Constantine"                 # Your header title
   header_subtitle = "data person" # Your header subtitle
   home_image = "/bc_pic.jpg"          # Path to header image starting from the static directory
