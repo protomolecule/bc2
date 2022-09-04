@@ -2,6 +2,7 @@ baseURL = 'https://benjaminconstantine.com/'
 languageCode = 'en-us'
 title = 'Benjamin Constantine'
 theme = "devise"
+copyright = "&copy; 2022, Benjamin Constantine"
 
 [params]
   description = "Personal website of Benjamin Constantine"      # Your meta description of the site
